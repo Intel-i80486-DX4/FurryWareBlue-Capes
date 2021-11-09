@@ -179,6 +179,7 @@
     "capes": [
       {
         "cape_uuid": "bfa5a",
+        "player_uuid": "bfe75cb4-ea3f-4791-a058-3f04aa5e839a",
         "type": "SPECIAL",
         "color": {
           "primary": "9b90ff",
@@ -231,6 +232,7 @@
     "capes": [
       {
         "cape_uuid": "1334a",
+        "player_uuid": "2e4b5395-6b08-418f-96db-5e23a462446c",
         "type": "SPECIAL",
         "color": {
           "primary": "9b90ff",
